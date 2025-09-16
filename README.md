@@ -1,8 +1,11 @@
-# Customer Files Management System
+# Entity Images Management System
 
 A modern full-stack application for managing customer files, built with enterprise-grade architecture patterns and cutting-edge technologies.
 
-## 🏗️ Architecture Overview
+#### Planned Enhancements
+I have designed the EntityImage table in the database to support storing images for multiple entity types (e.g., customers, leads, etc.). Currently, I’ve implemented APIs only for customer image uploads, but the same service can be reused to build endpoints for other entities as well.
+
+## Architecture Overview
 
 ### Backend (.NET 8)
 
@@ -34,7 +37,7 @@ A modern full-stack application for managing customer files, built with enterpri
 - **.NET 8** - Latest framework with improved performance
 - **Entity Framework Core** - ORM for database operations
 - **SQL Server** - Enterprise database solution
-- **AutoMapper** - Object mapping
+# - **AutoMapper** - Object mapping
 - **Image Processing** - Optimization and manipulation of uploaded images
 
 ### Frontend
@@ -47,7 +50,7 @@ A modern full-stack application for managing customer files, built with enterpri
 - **React Hook Form** - Form handling
 - **Zod** - Schema validation
 
-## ⚡ Getting Started
+## Getting Started
 
 ### Prerequisites
 
