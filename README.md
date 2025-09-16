@@ -1,6 +1,6 @@
-# Entity Images Management System
+# Entity Images Workflow
 
-A modern full-stack application for managing customer files, built with enterprise-grade architecture patterns and cutting-edge technologies.
+A modern full-stack application for managing entity images (mainly for customers), built with enterprise-grade architecture patterns and cutting-edge technologies.
 
 #### Planned Enhancements
 I have designed the EntityImage table in the database to support storing images for multiple entity types (e.g., customers, leads, etc.). Currently, I’ve implemented APIs only for customer image uploads, but the same service can be reused to build endpoints for other entities as well.
