@@ -1,0 +1,6 @@
+@PrjectHejer.Server_HostAddress = http://localhost:5172
+
+GET {{PrjectHejer.Server_HostAddress}}/
+Accept: application/json
+
+###
