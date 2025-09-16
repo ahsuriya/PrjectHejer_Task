@@ -21,7 +21,7 @@ I have designed the EntityImage table in the database to support storing images 
 - **ShadCN UI** - Beautiful, accessible components
 - **Zustand** - Lightweight state management
 
-## 🚀 Features
+## Features
 
 - **File Management**: Upload, organize, and manage customer documents
 - **Customer Management**: Comprehensive customer data handling
@@ -30,7 +30,7 @@ I have designed the EntityImage table in the database to support storing images 
 - **Responsive Design**: Mobile-first UI approach
 - **Type Safety**: End-to-end TypeScript implementation
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Backend
 
@@ -118,7 +118,7 @@ I have designed the EntityImage table in the database to support storing images 
    npm run dev
    ```
 
-## 📦 Deployment
+## Deployment
 
 ### Backend Deployment
 
